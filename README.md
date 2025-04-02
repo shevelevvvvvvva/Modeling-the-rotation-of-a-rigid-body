@@ -1,4 +1,5 @@
 -- Numerical Simulation of Rigid Body Rotation --
+
 This project implements a numerical simulation of rigid body rotation dynamics using quaternions and the Runge-Kutta 4th order method (RK4). The code solves Euler's rotation equations coupled with quaternion kinematics to model the motion of a rotating body under external forces and moments.
 
 -- Features --
